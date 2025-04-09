@@ -40,14 +40,15 @@ Las 4 primeras funciones permiten devolver los resutlados aplicados a los datos,
 La estructura de archivos para la solución es la siguiente
 
 retotecnico-cobol/
+
 |-- env/                # carpeta donde se almacenan los archivos necesarios del entorno virtual
 
-|-- .gitignore          # # Archivo que especifica qué archivos y carpetas deben ser ignorados por Git (como el entorno virtual y archivos temporales).
+|-- .gitignore          # Archivo que especifica qué archivos y carpetas deben ser ignorados por Git (como el entorno virtual y archivos temporales).
 
 |-- exaple.csv          # Archivo CSV de ejemplo con datos de transacciones.
 
 |-- main.py             # Archivo principal que ejecuta la lógica de procesamiento y generación del reporte.
 
-|-- README.md           # # Documentación del proyecto con instrucciones de uso.
+|-- README.md           # Documentación del proyecto con instrucciones de uso.
 
 |-- requirements.txt    # Archivo que lista las dependencias necesarias para el proyecto.
